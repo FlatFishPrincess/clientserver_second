@@ -1,0 +1,2 @@
+E:\C#\Class 02 Exercises\obj\x86\Debug\Class2.csprojAssemblyReference.cache
+E:\C#\Class 02 Exercises\obj\x86\Debug\Class2.csproj.CoreCompileInputs.cache

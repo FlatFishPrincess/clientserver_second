@@ -1,0 +1,19 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleDataSet\obj\Debug\SimpleDataSet.csprojAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\obj\Debug\SimpleDataSet.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleDataSet\obj\Debug\SimpleDataSet.pdb

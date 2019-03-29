@@ -1,0 +1,39 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.SimpleWindowsFormsDataBindingMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.SimpleWindowsFormsDataBindingMainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.SimpleWindowsFormsDataBindingMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\bin\Debug\SimpleWindowsFormsDataBinding.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.SimpleWindowsFormsDataBindingMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBinding\obj\Debug\SimpleWindowsFormsDataBinding.pdb

@@ -1,0 +1,8 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\obj\Debug\FunWithMethods.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithMethods\obj\Debug\FunWithMethods.pdb

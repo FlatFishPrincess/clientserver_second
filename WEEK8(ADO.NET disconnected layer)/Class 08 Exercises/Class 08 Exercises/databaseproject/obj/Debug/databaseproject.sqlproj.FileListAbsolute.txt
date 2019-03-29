@@ -1,0 +1,5 @@
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\Class 08 Exercises\databaseproject\bin\Debug\databaseproject.dacpac
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\Class 08 Exercises\databaseproject\bin\Debug\databaseproject.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\Class 08 Exercises\databaseproject\bin\Debug\databaseproject.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\Class 08 Exercises\databaseproject\obj\Debug\databaseproject.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\Class 08 Exercises\databaseproject\obj\Debug\databaseproject.pdb

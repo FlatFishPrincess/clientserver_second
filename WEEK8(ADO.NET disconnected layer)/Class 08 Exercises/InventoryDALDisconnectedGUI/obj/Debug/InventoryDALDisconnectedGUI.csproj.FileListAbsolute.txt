@@ -1,0 +1,35 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.MainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.DisconnectedGUIMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\bin\Debug\InventoryDALDisconnectedGUI.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\bin\Debug\AutoLotDAL2.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.DisconnectedGUIMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\InventoryDALDisconnectedGUI\obj\Debug\InventoryDALDisconnectedGUI.pdb

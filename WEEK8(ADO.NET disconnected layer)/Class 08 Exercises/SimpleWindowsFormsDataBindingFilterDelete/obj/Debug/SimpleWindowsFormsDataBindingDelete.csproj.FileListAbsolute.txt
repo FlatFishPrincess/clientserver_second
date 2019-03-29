@@ -1,0 +1,39 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDeleteFilter.SimpleWindowsFormsDataBindingDeleteMainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDeleteFilter.SimpleWindowsFormsDataBindingDeleteMainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDeleteFilter.SimpleWindowsFormsDataBindingDeleteMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\bin\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDeleteFilter.SimpleWindowsFormsDataBindingDeleteMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingDelete.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\SimpleWindowsFormsDataBindingFilterDelete\obj\Debug\SimpleWindowsFormsDataBindingFilterDelete.pdb

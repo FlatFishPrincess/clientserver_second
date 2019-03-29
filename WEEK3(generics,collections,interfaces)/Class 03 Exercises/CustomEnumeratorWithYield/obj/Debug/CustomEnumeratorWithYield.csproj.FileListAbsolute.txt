@@ -1,0 +1,19 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csprojAssemblyReference.cache
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+E:\C#\WEEK3\Class 03 Exercises\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb

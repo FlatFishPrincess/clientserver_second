@@ -1,0 +1,9 @@
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\Model.xml
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\refactor.xml
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\postdeploy.sql
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\predeploy.sql
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+E:\C#\WEEK6\Lab06StudentRegistration\Lab06StudentRegistration\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb

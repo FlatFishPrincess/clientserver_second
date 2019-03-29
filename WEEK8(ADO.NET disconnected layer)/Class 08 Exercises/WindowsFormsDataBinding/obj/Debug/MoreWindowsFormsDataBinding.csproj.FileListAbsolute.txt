@@ -1,0 +1,27 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MoreWindowsFormsDataBindingMainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MoreWindowsFormsDataBindingMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MoreWindowsFormsDataBindingMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\MoreWindowsFormsDataBinding.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb

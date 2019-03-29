@@ -1,0 +1,19 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.MultitabledDataSetForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.MultitabledDataSetForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSet.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.pdb

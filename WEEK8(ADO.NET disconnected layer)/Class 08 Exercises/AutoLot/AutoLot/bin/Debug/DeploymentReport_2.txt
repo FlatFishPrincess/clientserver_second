@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[CreditRisks] (Table)
+       [dbo].[Customers] (Table)
+       [dbo].[Inventory] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[FK_Orders_Inventory] (Foreign Key)
+       [dbo].[FK_Orders_Customers] (Foreign Key)
+       [dbo].[CustomerOrders] (View)
+       [dbo].[GetName] (Procedure)
+
+** Supporting actions

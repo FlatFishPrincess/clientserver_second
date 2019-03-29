@@ -1,0 +1,18 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL3\obj\Debug\AutoLotDAL3.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL3\bin\Debug\AutoLotDAL3.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL3\bin\Debug\AutoLotDAL3.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL3\obj\Debug\AutoLotDAL3.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL3\obj\Debug\AutoLotDAL3.pdb

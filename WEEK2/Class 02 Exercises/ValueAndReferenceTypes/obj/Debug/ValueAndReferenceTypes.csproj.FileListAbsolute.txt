@@ -1,0 +1,14 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Textbook Source Code\Chapter_4\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataGridViewDataDesigner.InventoryDataSetTableAdapters.InventoryTableAdapter">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.InventoryDataSetTableAdapters.TableAdapterManager">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="DataGridViewDataDesigner.InventoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="DataGridViewDataDesigner.InventoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgACAAAQABAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.DataGridViewDataDesignerMainForm">
+    <Position X="0.5" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACABgAAgACAAAAIAAACAEECCAAAAAAAAAAAACAoAAAA=</HashCode>
+      <FileName>DataGridViewDataDesignerMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.DataGridViewDataDesignerProgram">
+    <Position X="0.5" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DataGridViewDataDesignerProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.InventoryDataSet">
+    <Position X="5.5" Y="1.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="DataGridViewDataDesigner.InventoryDataSet.InventoryRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="DataGridViewDataDesigner.InventoryDataSet.InventoryDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="DataGridViewDataDesigner.InventoryDataSet.InventoryRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="DataGridViewDataDesigner.InventoryDataSet.InventoryRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAACQAAAAAgCQBgAAAAAAgEAFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.Properties.Resources">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataGridViewDataDesigner.Properties.Settings">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

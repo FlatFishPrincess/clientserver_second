@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache

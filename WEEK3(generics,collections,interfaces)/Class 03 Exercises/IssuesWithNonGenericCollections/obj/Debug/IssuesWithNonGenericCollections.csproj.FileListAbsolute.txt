@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.pdb

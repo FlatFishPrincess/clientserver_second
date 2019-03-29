@@ -1,0 +1,5 @@
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Release\Lab02SportsLeague.exe.config
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Release\Lab02SportsLeague.exe
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Release\Lab02SportsLeague.pdb
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\obj\Release\Lab02SportsLeague.exe
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\obj\Release\Lab02SportsLeague.pdb

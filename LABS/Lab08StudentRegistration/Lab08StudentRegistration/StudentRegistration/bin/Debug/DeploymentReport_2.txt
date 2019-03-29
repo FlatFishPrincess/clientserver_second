@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Courses]
+       [dbo].[Departments]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Courses].[CourseNumber] is being dropped, data loss could occur.
+       The column [dbo].[Departments].[DepartmentCode] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[Courses] (Table)
+       [dbo].[Departments] (Table)
+     Alter
+       [dbo].[Students] (Table)
+     Create
+       [dbo].[Registration] (Table)
+       [dbo].[FK_Courses_ToDepartment] (Foreign Key)
+       [dbo].[FK_Registration_ToStudents] (Foreign Key)
+       [dbo].[FK_Registration_ToCourses] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[Courses].[CourseNumber] is being dropped, data loss could occur.
+The column [dbo].[Departments].[DepartmentCode] is being dropped, data loss could occur.
+

@@ -1,0 +1,10 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithStructures\obj\Debug\FunWithStructures.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithStructures\bin\Debug\FunWithStructures.pdb

@@ -1,0 +1,13 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\bin\Debug\OptionalParams.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\bin\Debug\OptionalParams.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\bin\Debug\OptionalParams.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\obj\Debug\OptionalParams.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\obj\Debug\OptionalParams.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\OptionalParams\OptionalParams\obj\Debug\OptionalParams.pdb
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\bin\Debug\OptionalParams.exe.config
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\bin\Debug\OptionalParams.exe
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\bin\Debug\OptionalParams.pdb
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\obj\Debug\OptionalParams.csprojAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\obj\Debug\OptionalParams.csproj.CoreCompileInputs.cache
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\obj\Debug\OptionalParams.exe
+E:\C#\WEEK2\Class 02 Exercises\OptionalParams\OptionalParams\obj\Debug\OptionalParams.pdb

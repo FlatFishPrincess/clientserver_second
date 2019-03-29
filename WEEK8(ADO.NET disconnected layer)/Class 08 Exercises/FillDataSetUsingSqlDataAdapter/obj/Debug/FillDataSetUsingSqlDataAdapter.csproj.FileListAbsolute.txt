@@ -1,0 +1,14 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\FillDataSetUsingSqlDataAdapter\bin\Debug\FillDataSetUsingSqlDataAdapter.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\FillDataSetUsingSqlDataAdapter\obj\Debug\FillDataSetUsingSqlDataAdapter.pdb

@@ -1,0 +1,6 @@
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\bin\Debug\SalesOrder.exe.config
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\bin\Debug\SalesOrder.exe
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\bin\Debug\SalesOrder.pdb
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\obj\Debug\SalesOrder.csprojResolveAssemblyReference.cache
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\obj\Debug\SalesOrder.exe
+E:\C#\Jiweon\Lab01SalesOrder\SalesOrder\obj\Debug\SalesOrder.pdb

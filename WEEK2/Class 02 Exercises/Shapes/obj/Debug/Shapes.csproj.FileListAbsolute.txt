@@ -1,0 +1,18 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\bin\Debug\Shapes.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\obj\Debug\Shapes.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Shapes\obj\Debug\Shapes.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\obj\Debug\Shapes.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\obj\Debug\Shapes.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\bin\Debug\Shapes.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\bin\Debug\Shapes.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\Shapes\bin\Debug\Shapes.exe.config
+E:\C#\WEEK2\Class 02 Exercises\Shapes\bin\Debug\Shapes.exe
+E:\C#\WEEK2\Class 02 Exercises\Shapes\bin\Debug\Shapes.pdb
+E:\C#\WEEK2\Class 02 Exercises\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\Shapes\obj\Debug\Shapes.exe
+E:\C#\WEEK2\Class 02 Exercises\Shapes\obj\Debug\Shapes.pdb

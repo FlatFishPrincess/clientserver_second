@@ -1,0 +1,12 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.FormRegistration.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\bin\Debug\Registration.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\bin\Debug\Registration.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\bin\Debug\Registration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\bin\Debug\Registration.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\Registration\obj\Debug\Registration.pdb

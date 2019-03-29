@@ -1,0 +1,7 @@
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\bin\Debug\TestProject.exe.config
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\bin\Debug\TestProject.exe
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\bin\Debug\TestProject.pdb
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\obj\Debug\TestProject.exe
+E:\C#\WEEK2\Class 02 Exercises\Class 02 Exercises\TestProject\obj\Debug\TestProject.pdb

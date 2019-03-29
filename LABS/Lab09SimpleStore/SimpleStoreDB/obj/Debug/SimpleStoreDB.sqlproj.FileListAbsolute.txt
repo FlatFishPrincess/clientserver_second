@@ -1,0 +1,25 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\bin\Debug\SimpleStoreDB.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\bin\Debug\SimpleStoreDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\bin\Debug\SimpleStoreDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\SimpleStoreDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStoreSolution\SimpleStoreDB\obj\Debug\SimpleStoreDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.sqlprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.pdb
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.dacpac
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.dll
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\bin\Debug\SimpleStoreDB.pdb
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.sqlprojResolveAssemblyReference.cache
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.dll
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreDB\obj\Debug\SimpleStoreDB.pdb

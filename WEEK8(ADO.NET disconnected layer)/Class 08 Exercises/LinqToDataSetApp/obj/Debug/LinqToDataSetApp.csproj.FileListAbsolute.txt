@@ -1,0 +1,9 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\LinqToDataSetApp.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\LinqToDataSetApp.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\LinqToDataSetApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\LinqToDataSetApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\obj\Debug\LinqToDataSetApp.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\obj\Debug\LinqToDataSetApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\LinqToDataSetApp\obj\Debug\LinqToDataSetApp.pdb

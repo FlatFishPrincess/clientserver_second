@@ -1,0 +1,20 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistration.sqlprojAssemblyReference.cache
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.dll
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.pdb
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistration.sqlprojResolveAssemblyReference.cache
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\Model.xml
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\refactor.xml
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\postdeploy.sql
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\predeploy.sql

@@ -1,0 +1,42 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotMainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotOutputForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotOutputForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotOutputForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\bin\Debug\AutoLotDataDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.AutoLotOutputForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDataDesigner\obj\Debug\AutoLotDataDesigner.pdb

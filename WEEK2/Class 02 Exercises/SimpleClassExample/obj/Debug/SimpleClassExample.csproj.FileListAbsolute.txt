@@ -1,0 +1,20 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+E:\C#\WEEK2\Class 02 Exercises\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

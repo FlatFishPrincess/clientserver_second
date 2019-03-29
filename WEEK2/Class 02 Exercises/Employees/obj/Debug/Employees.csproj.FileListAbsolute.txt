@@ -1,0 +1,17 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Employees\bin\Debug\Employees.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Employees\bin\Debug\Employees.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Employees\bin\Debug\Employees.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Employees\obj\Debug\Employees.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\Employees\obj\Debug\Employees.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\Employees\bin\Debug\Employees.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\Employees\obj\Debug\Employees.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\Employees\obj\Debug\Employees.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\Employees\bin\Debug\Employees.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\Employees\bin\Debug\Employees.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\bin\Debug\Employees.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\obj\Debug\Employees.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\obj\Debug\Employees.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\bin\Debug\Employees.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\bin\Debug\Employees.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Employees\obj\Debug\Employees.csprojAssemblyReference.cache

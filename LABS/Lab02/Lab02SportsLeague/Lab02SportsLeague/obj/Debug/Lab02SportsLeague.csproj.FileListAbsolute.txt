@@ -1,0 +1,19 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.pdb
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.csprojResolveAssemblyReference.cache
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe.config
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.pdb
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.exe
+E:\C#\ASSIGNMENT\Lab02\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.pdb

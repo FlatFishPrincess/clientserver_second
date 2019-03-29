@@ -1,0 +1,43 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\Model.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\Model.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Projects\Lab08StudentRegistration\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab08StudentRegistrationSolution\StudentRegistration\obj\Debug\StudentRegistration.sqlprojAssemblyReference.cache
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\Model.xml
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\refactor.xml
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\postdeploy.sql
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\predeploy.sql
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+E:\C#\LABS\Lab08StudentRegistration\Lab08StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb

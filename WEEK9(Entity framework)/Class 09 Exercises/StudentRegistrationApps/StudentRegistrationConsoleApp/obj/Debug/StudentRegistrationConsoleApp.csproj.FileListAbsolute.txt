@@ -1,0 +1,58 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationConsoleApp\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csproj.CopyComplete
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe.config
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.exe
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\StudentRegistrationConsoleApp.pdb
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.dll
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.xml
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csprojAssemblyReference.cache
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.csproj.CopyComplete
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.exe
+E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationConsoleApp\obj\Debug\StudentRegistrationConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\bin\Debug\BaseKeywordAndClasses.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\bin\Debug\BaseKeywordAndClasses.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\bin\Debug\BaseKeywordAndClasses.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\obj\Debug\BaseKeywordAndClasses.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\obj\Debug\BaseKeywordAndClasses.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\obj\Debug\BaseKeywordAndClasses.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BaseKeywordAndClasses\BaseKeywordAndClasses\obj\Debug\BaseKeywordAndClasses.csproj.CoreCompileInputs.cache

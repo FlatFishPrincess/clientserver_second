@@ -1,0 +1,10 @@
+E:\C#\WEEK5\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\C#\WEEK5\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\C#\WEEK5\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorldFormOther.resources
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\C#\WEEK5\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,24 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.SimpleStoreMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Labs\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.pdb
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.exe.config
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.exe
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\SimpleStoreFormsApp.pdb
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\EntityFramework.dll
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\EntityFramework.xml
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.csprojResolveAssemblyReference.cache
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.SimpleStoreFormsAppMainForm.resources
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.Properties.Resources.resources
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.csproj.GenerateResource.Cache
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.exe
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.pdb
+E:\C#\LABS\Lab09SimpleStore\SimpleStoreFormsApp\obj\Debug\SimpleStoreFormsApp.Migrations.InitialCreate.resources

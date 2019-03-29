@@ -1,0 +1,10 @@
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\bin\Debug\Lab05RentalHousing.exe.config
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\bin\Debug\Lab05RentalHousing.exe
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\bin\Debug\Lab05RentalHousing.pdb
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.csprojResolveAssemblyReference.cache
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.Properties.Resources.resources
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.RentalHousingForm.resources
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.csproj.GenerateResource.Cache
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.exe
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\obj\Debug\Lab05RentalHousing.pdb
+E:\C#\ASSIGNMENT\Lab05RentalHousing\Lab05RentalHousing\Lab05RentalHousing\bin\Debug\NewWestminsterRentalHousing.xml

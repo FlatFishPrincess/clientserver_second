@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

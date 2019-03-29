@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithEnums\obj\Debug\FunWithEnums.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\obj\Debug\FunWithEnums.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\obj\Debug\FunWithEnums.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache

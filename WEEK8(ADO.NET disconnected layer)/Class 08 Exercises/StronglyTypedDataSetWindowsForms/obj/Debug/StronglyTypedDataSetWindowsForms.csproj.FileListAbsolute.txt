@@ -1,0 +1,39 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.StronglyTypedWindowsFormsMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\StronglyTypedDataSetWindowsForms.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\bin\Debug\AutoLotDAL3.dll.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.StronglyTypedWindowsFormsMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsForms\obj\Debug\StronglyTypedDataSetWindowsForms.pdb

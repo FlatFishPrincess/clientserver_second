@@ -1,0 +1,6 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\bin\Debug\SimpleClassExampleFromScratch.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\bin\Debug\SimpleClassExampleFromScratch.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\bin\Debug\SimpleClassExampleFromScratch.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\obj\Debug\SimpleClassExampleFromScratch.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\obj\Debug\SimpleClassExampleFromScratch.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\SimpleClassExampleFromScratch\SimpleClassExampleFromScratch\obj\Debug\SimpleClassExampleFromScratch.pdb

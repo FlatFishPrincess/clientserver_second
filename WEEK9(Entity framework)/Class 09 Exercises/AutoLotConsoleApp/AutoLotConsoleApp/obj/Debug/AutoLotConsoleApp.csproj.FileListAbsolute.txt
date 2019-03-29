@@ -1,0 +1,12 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 09\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.pdb

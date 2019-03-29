@@ -1,0 +1,10 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\bin\Debug\AutoLotDAL2.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\bin\Debug\AutoLotDAL2.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\obj\Debug\AutoLotDAL2.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\obj\Debug\AutoLotDAL2.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\obj\Debug\AutoLotDAL2.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\AutoLotDAL2\obj\Debug\AutoLotDAL2.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL2\bin\Debug\AutoLotDAL2.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL2\bin\Debug\AutoLotDAL2.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL2\obj\Debug\AutoLotDAL2.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\AutoLotDAL2\obj\Debug\AutoLotDAL2.pdb

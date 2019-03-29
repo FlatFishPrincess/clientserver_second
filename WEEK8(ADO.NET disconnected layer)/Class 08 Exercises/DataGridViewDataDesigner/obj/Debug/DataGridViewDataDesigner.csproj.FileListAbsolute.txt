@@ -1,0 +1,28 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csprojResolveAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.MainForm.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.Properties.Resources.resources
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.GenerateResource.Cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.DataGridViewDataDesignerMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\bin\Debug\DataGridViewDataDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.DataGridViewDataDesignerMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\DataGridViewDataDesigner\obj\Debug\DataGridViewDataDesigner.csprojResolveAssemblyReference.cache

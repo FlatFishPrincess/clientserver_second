@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStoreFormsApp", "SimpleStoreFormsApp\SimpleStoreFormsApp.csproj", "{0D463268-CCCB-4BA8-AE3E-9C92E6DA6E1B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SimpleStoreDB", "SimpleStoreDB\SimpleStoreDB.sqlproj", "{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D463268-CCCB-4BA8-AE3E-9C92E6DA6E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D463268-CCCB-4BA8-AE3E-9C92E6DA6E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D463268-CCCB-4BA8-AE3E-9C92E6DA6E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D463268-CCCB-4BA8-AE3E-9C92E6DA6E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FE1DA1-0E20-4905-B01C-E4B87F5B310B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47D785A-9C4B-4212-8D84-857063F83C94}
+	EndGlobalSection
+EndGlobal

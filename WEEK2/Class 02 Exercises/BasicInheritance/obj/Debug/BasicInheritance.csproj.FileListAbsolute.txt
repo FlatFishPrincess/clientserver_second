@@ -1,0 +1,14 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\bin\Debug\BasicInheritance.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_6\BasicInheritance\obj\Debug\BasicInheritance.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\obj\Debug\BasicInheritance.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\BasicInheritance\bin\Debug\BasicInheritance.pdb

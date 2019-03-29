@@ -1,0 +1,26 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.dll.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.StronglyTypedDataSetWindowsFormsDesignerMainForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csproj.GenerateResource.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csproj.CopyComplete
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 08\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\StronglyTypedDataSetWindowsFormsDesigner.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.dll
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.pdb
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\bin\Debug\AutoLotDAL3.dll.config
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csprojResolveAssemblyReference.cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.Properties.Resources.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.StronglyTypedDataSetWindowsFormsDesignerMainForm.resources
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.csproj.GenerateResource.Cache
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.exe
+E:\C#\WEEK8(ADO.NET disconnected layer)\Class 08 Exercises\StronglyTypedDataSetWindowsFormsDesigner\obj\Debug\StronglyTypedDataSetWindowsFormsDesigner.pdb

@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\bin\Debug\ConstData.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\obj\Debug\ConstData.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\obj\Debug\ConstData.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\bin\Debug\ConstData.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\bin\Debug\ConstData.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache

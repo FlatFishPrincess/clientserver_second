@@ -1,0 +1,7 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\bin\Debug\FunWithCollections.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\bin\Debug\FunWithCollections.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\bin\Debug\FunWithCollections.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\obj\Debug\FunWithCollections.csprojAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\obj\Debug\FunWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\obj\Debug\FunWithCollections.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 03\FunWithCollections\obj\Debug\FunWithCollections.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C2BAEAE2-C4A8-4AA3-AB51-1341A3F6618A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab02SportsLeague PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab02SportsLeague/SportsLeagueClasses.cs">
+    <Files>
+      <File FileName="Lab02SportsLeague/SportsLeagueProgram.cs" Line="10" Column="6" />
+      <File FileName="Lab02SportsLeague/SportsLeagueClasses.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

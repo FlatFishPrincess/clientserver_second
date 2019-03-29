@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="StudentRegistrationConsoleApp.EF_Classes.Course">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <AssociationLine Name="Students" Type="StudentRegistrationConsoleApp.EF_Classes.Student" FixedFromPoint="true">
+      <Path>
+        <Point X="2.75" Y="1.563" />
+        <Point X="6.25" Y="1.563" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAKEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EF Classes\Course.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Students" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StudentRegistrationConsoleApp.EF_Classes.Student">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAAAEAgAAAAAAAAAAAAAAAAAAABACAAA=</HashCode>
+      <FileName>EF Classes\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentRegistrationConsoleApp.EF_Classes.Department">
+    <Position X="0.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAABAAAAA=</HashCode>
+      <FileName>EF Classes\Department.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Courses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StudentRegistrationConsoleApp.EF_Classes.StudentRegistrationEntities">
+    <Position X="6.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>EF Classes\StudentRegistrationEntities.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Courses" />
+      <Property Name="Departments" />
+      <Property Name="Students" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

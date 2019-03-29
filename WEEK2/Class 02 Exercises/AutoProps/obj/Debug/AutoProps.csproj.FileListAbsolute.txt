@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\bin\Debug\AutoProps.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\bin\Debug\AutoProps.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\obj\Debug\AutoProps.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\obj\Debug\AutoProps.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\bin\Debug\AutoProps.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\bin\Debug\AutoProps.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 02\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
