@@ -31,9 +31,17 @@ namespace SimpleStoreFormsApp
 
             this.Load += SimpleStoreMainForm_Load;
             buttonUpdate.Click += ButtonUpdate_Click;
+            // when form closed, close database too
+            this.FormClosed += SimpleStoreFormsAppMainForm_FormClosed;
 
         }
 
+        private void SimpleStoreFormsAppMainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            context.Database.Connection.Close();
+            context.Dispose();
+        }
+        
         private void SimpleStoreMainForm_Load(object sender, EventArgs e)
         {
             // initialize Product, Orders datagridview controls here
@@ -128,6 +136,21 @@ namespace SimpleStoreFormsApp
                       OrderCount = product_grouped.Count()
                   }).ToList();
 
+            // same query 
+            var query5 = context.Products.Select(p => new Report()
+            {
+                ProductId = p.ProductId,
+                ProductName = p.ProductName,
+                OrderCount = p.Orders.Count
+            });
+            
+            var query6 = from product in context.Products
+                         select new Report()
+                         {
+                             ProductId = product.ProductId,
+                             ProductName = product.ProductName,
+                             OrderCount = product.Orders.Count()
+                         };
 
             // update dataGridViewReport control
             dataGridViewReport.DataSource = product_order.ToList();

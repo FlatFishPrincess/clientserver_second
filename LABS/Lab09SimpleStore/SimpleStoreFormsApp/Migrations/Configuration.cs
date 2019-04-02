@@ -19,6 +19,13 @@ namespace SimpleStoreFormsApp.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
+
+            // -------------In class --------------
+            context.Orders.RemoveRange(context.Orders);
+            context.Products.RemoveRange(context.Products);
+            context.SaveChanges();
+            // ????
+            // context.Database.ExecuteSqlCommand($"DBCG");
         }
     }
 }

@@ -8,6 +8,8 @@ namespace SimpleStoreFormsApp.EF_Classes
 
     public partial class Order
     {
+        // add [displayName("name")]
+        // [Required]
         public int OrderId { get; set; }
 
         [StringLength(50)]
