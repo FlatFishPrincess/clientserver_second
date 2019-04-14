@@ -88,7 +88,6 @@ namespace StudentRegistrationFormsApp
             // set up initial registration
             // note that we can add a student to a course or
             // add a course to a student, both will work and set up proper links
-
             courses[0].Students.Add(students[0]);
             courses[0].Students.Add(students[1]);
             courses[1].Students.Add(students[0]);

@@ -54,3 +54,16 @@ E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\Student
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.csproj.GenerateResource.cache
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.exe
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.exe.config
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.exe
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.Properties.Resources.resources
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.StudentRegistrationMainAppForm.resources
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.csproj.GenerateResource.Cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.exe
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.pdb

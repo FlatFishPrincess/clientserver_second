@@ -18,3 +18,9 @@ E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\Student
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\refactor.xml
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\postdeploy.sql
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\bin\Debug\StudentRegistrationDB.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistration.sqlprojResolveAssemblyReference.cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb

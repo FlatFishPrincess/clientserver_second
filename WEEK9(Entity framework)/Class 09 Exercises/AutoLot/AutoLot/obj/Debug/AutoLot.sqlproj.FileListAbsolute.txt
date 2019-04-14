@@ -59,3 +59,13 @@ E:\C#\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\postd
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\predeploy.sql
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.dll
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\bin\Debug\AutoLot.dacpac
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\bin\Debug\AutoLot.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\bin\Debug\AutoLot.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.sqlprojResolveAssemblyReference.cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\Model.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\refactor.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\postdeploy.sql
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\predeploy.sql
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.pdb

@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AutoLot.dll" />
-			<Metadata Name="FileName" Value="E:\C#\WEEK9(ENTITY FRAMEWORK)\CLASS 09 EXERCISES\AUTOLOT\AUTOLOT\OBJ\DEBUG\AUTOLOT.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\300281074\DESKTOP\CLIENTSERVER_SECOND\WEEK9(ENTITY FRAMEWORK)\CLASS 09 EXERCISES\AUTOLOT\AUTOLOT\OBJ\DEBUG\AUTOLOT.DLL" />
 			<Metadata Name="AssemblyName" Value="AutoLot" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="E:\C#\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\AutoLot\AutoLot\obj\Debug\AutoLot.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

@@ -9,7 +9,7 @@ namespace StudentRegistrationFormsApp.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(StudentRegistrationFormsApp.EF_Classes.StudentRegistrationEntities context)

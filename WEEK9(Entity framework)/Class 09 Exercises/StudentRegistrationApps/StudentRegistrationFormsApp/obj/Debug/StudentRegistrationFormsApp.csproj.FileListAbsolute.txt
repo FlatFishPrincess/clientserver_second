@@ -70,3 +70,17 @@ E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\Student
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.exe
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.pdb
 E:\C#\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.exe.config
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.exe
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.AddStudentForm.resources
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.FormStudentRegistration.resources
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.Properties.Resources.resources
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.csproj.GenerateResource.Cache
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.exe
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.pdb
