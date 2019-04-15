@@ -63,11 +63,19 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="EF Classes\Program.cs" />
+    <Compile Include="Migrations\201904151842430_InitialCreate.cs" />
+    <Compile Include="Migrations\201904151842430_InitialCreate.Designer.cs">
+      <DependentUpon>201904151842430_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="EF Classes\Student.cs" />
     <Compile Include="EF Classes\StudentRegistrationModel.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904151842430_InitialCreate.resx">
+      <DependentUpon>201904151842430_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

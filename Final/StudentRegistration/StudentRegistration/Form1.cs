@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Data.Entity;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -32,77 +33,68 @@ namespace StudentRegistration
         {
             //get selected data 
             // dataGridViewStudent.SelectedRows;
-
-            List<Student> selectedStudentList = new List<Student>();
-            foreach (DataGridViewRow row in dataGridViewStudent.SelectedRows)
+            List<Student> selectedStudents = new List<Student>();
+            foreach(DataGridViewRow row in dataGridViewStudent.SelectedRows)
             {
-                Console.WriteLine(context.Students.Find(row.Cells[0].Value).StudentFirstName);
-                selectedStudentList.Add(context.Students.Find(row.Cells[0].Value));
+                Console.WriteLine(row.Cells[0].Value);
+                selectedStudents.Add(context.Students.Find(row.Cells[0].Value));
             }
-
-            List<Cours> selectedCourseList = new List<Cours>();
+            List<Cours> selectedCourses = new List<Cours>();
             foreach (DataGridViewRow row in dataGridViewCourse.SelectedRows)
             {
-                int courseID = int.Parse(row.Cells[0].Value.ToString());
-                string departmentID = row.Cells[1].Value.ToString();
-                Cours selectedCourse = context.Courses.Find(courseID, departmentID);
-                Console.WriteLine(selectedCourse.CourseName);
-                selectedCourseList.Add(selectedCourse);
-                //Console.WriteLine(context.Courses.Find(row.Cells[0].Value));
+                Console.WriteLine(context.Courses.Find(row.Cells[0].Value, row.Cells[1].Value));
+                selectedCourses.Add(context.Courses.Find(row.Cells[0].Value, row.Cells[1].Value));
             }
 
-            foreach (Cours c in selectedCourseList)
+            foreach (Cours c in selectedCourses)
             {
-                foreach (Student s in selectedStudentList)
+                foreach (Student s in selectedStudents){
                     s.Courses.Add(c);
-            }
+                }
+            }   
                
             context.SaveChanges();
-
-            var courseList = (from student in context.Students
-                             from course in student.Courses
-                              select course.CourseName + " " + student.StudentFirstName).ToList();
-            foreach(String s in courseList)
-            {
-                Console.WriteLine(s.ToString());
-            }
-            
             updateRegistration();
+
+            context.Database.Log = (s => Debug.Write("updated!!!!!!!!  " + s));
         }
 
         private void updateRegistration()
         {
-            
-            // dataGridViewRegistration
             var studentRegistration = from student in context.Students
                                       from course in student.Courses
-                                      orderby student.StudentId
+                                      orderby student.StudentFirstName
                                       select new StudentCourseRegistration
                                       {
                                           StudentID = student.StudentId,
                                           StudentFirstName = student.StudentFirstName,
                                           StudentLastName = student.StudentLastName,
-                                          DepartmentName = course.Department.DepartmentName,
                                           CourseID = course.CourseId,
-                                          CourseName = course.CourseName
+                                          CourseName = course.CourseName,
+                                          DepartmentName = course.Department.DepartmentName
                                       };
+
             dataGridViewRegistration.DataSource = studentRegistration.ToList();
-            dataGridViewRegistration.Refresh(); 
+            dataGridViewRegistration.Refresh();
+
         }
 
         private void AddStudentBtn_Click(object sender, EventArgs e)
         {
             // register student
-            string firstName = firstNameTxt.Text.ToString();
-            string lastName = lastNameTxt.Text.ToString();
-            string departmentId = DepartmentList.SelectedItem.ToString();
+            string firstName = firstNameTxt.Text;
+            string lastName = lastNameTxt.Text;
+            string depId = DepartmentList.SelectedItem.ToString();
+            Console.WriteLine(depId);
 
+            // create a new stduent obj 
             Student newStudent = new Student
             {
                 StudentFirstName = firstName,
                 StudentLastName = lastName,
-                StudentMajor = departmentId
+                StudentMajor = depId
             };
+
             context.Students.Add(newStudent);
             context.SaveChanges();
             updateGridView();
@@ -110,10 +102,8 @@ namespace StudentRegistration
 
         private void updateGridView()
         {
+            dataGridViewStudent.Refresh();          
 
-            // upgdate student gridview 
-            dataGridViewStudent.Refresh();
-            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -124,12 +114,11 @@ namespace StudentRegistration
         private void updateDepartment()
         {
             // DepartmentList
-            var departmentList = from department in context.Departments
-                                 select department.DepartmentId;
-            foreach(String s in departmentList)
-            {
-                DepartmentList.Items.Add(s);
-            }
+            var departmentIdList = (from department in context.Departments
+                                    select department.DepartmentId).ToList();
+            foreach (String did in departmentIdList)
+                DepartmentList.Items.Add(did);
+            
         }
 
         private void seedData()
@@ -150,9 +139,10 @@ namespace StudentRegistration
                 new Student { StudentFirstName = "Michael", StudentLastName = "Thorson", StudentMajor = "CSIS" },
                 new Student { StudentFirstName = "Simon", StudentLastName = "Li", StudentMajor = "CSIS" },
             };
+
             context.Students.AddRange(students);
             context.SaveChanges();
-
+           
             List<Department> departments = new List<Department>()  {
                 new Department { DepartmentId = "CSIS", DepartmentName = "Computing Studies" },
                 new Department { DepartmentId = "ACCT", DepartmentName = "Accounting" },
@@ -161,6 +151,7 @@ namespace StudentRegistration
             };
 
             context.Departments.AddRange(departments);
+            context.SaveChanges();
 
             List<Cours> courses = new List<Cours>() {
                 new Cours { CourseId = 101, CourseDepartmentId = "CSIS", CourseName = "Programming I"},
@@ -179,6 +170,12 @@ namespace StudentRegistration
             dataGridViewStudent.DataSource = context.Students.Local.ToBindingList();
             dataGridViewCourse.DataSource = context.Courses.Local.ToBindingList();
 
+
+            Student myStudent = context.Students.FirstOrDefault(s => s.StudentFirstName.Equals("Svetlana"));
+            context.Students.Remove(myStudent);
+            context.SaveChanges();
+
+            updateGridView();
             updateDepartment();
         }
 

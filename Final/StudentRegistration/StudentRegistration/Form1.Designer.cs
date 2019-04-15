@@ -70,14 +70,14 @@
             // 
             // firstNameTxt
             // 
-            this.firstNameTxt.Location = new System.Drawing.Point(144, 292);
+            this.firstNameTxt.Location = new System.Drawing.Point(119, 293);
             this.firstNameTxt.Name = "firstNameTxt";
             this.firstNameTxt.Size = new System.Drawing.Size(100, 20);
             this.firstNameTxt.TabIndex = 3;
             // 
             // lastNameTxt
             // 
-            this.lastNameTxt.Location = new System.Drawing.Point(144, 318);
+            this.lastNameTxt.Location = new System.Drawing.Point(119, 319);
             this.lastNameTxt.Name = "lastNameTxt";
             this.lastNameTxt.Size = new System.Drawing.Size(100, 20);
             this.lastNameTxt.TabIndex = 4;
@@ -94,7 +94,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(66, 292);
+            this.label1.Location = new System.Drawing.Point(41, 293);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(54, 13);
             this.label1.TabIndex = 8;
@@ -103,7 +103,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(66, 321);
+            this.label2.Location = new System.Drawing.Point(41, 322);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(55, 13);
             this.label2.TabIndex = 9;
@@ -112,7 +112,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(66, 351);
+            this.label3.Location = new System.Drawing.Point(41, 352);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(62, 13);
             this.label3.TabIndex = 10;
@@ -121,7 +121,7 @@
             // DepartmentList
             // 
             this.DepartmentList.FormattingEnabled = true;
-            this.DepartmentList.Location = new System.Drawing.Point(144, 351);
+            this.DepartmentList.Location = new System.Drawing.Point(119, 352);
             this.DepartmentList.Name = "DepartmentList";
             this.DepartmentList.Size = new System.Drawing.Size(120, 95);
             this.DepartmentList.TabIndex = 12;

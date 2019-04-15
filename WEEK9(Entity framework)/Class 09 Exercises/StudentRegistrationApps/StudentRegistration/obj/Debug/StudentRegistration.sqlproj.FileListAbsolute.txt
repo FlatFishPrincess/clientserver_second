@@ -24,3 +24,7 @@ C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 
 C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistration.sqlprojResolveAssemblyReference.cache
 C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.dll
 C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\StudentRegistrationDB.pdb
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\Model.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\300281074\Desktop\clientserver_second\WEEK9(Entity framework)\Class 09 Exercises\StudentRegistrationApps\StudentRegistration\obj\Debug\predeploy.sql
